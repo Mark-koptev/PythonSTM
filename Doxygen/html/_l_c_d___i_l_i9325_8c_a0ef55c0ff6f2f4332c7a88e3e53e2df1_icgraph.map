@@ -1,0 +1,9 @@
+<map id="board_lcd_write_words" name="board_lcd_write_words">
+<area shape="rect" id="node1" title=" " alt="" coords="541,56,695,81"/>
+<area shape="rect" id="node2" href="$_l_c_d___i_l_i9325_8c.html#add460c119896836f5363c25596f7ad45" title="заполнить область экрана, определенным цветом" alt="" coords="397,31,490,56"/>
+<area shape="rect" id="node6" href="$_l_c_d___i_l_i9325_8c.html#acebd4dda03bfc9b3ae8804065e7a010f" title="заполнить область экрана, определенным цветом" alt="" coords="393,80,493,105"/>
+<area shape="rect" id="node3" href="$display_8c.html#a43f6236f68a869a65327bb13d5e5368b" title=" " alt="" coords="104,5,191,31"/>
+<area shape="rect" id="node5" href="$_l_c_d___i_l_i9325_8c.html#a5d157763515a35b729669b660b42bae2" title="no comment" alt="" coords="239,31,345,56"/>
+<area shape="rect" id="node4" href="$main_8c.html#a840291bc02cba5474a4cb46a9b9566fe" title=" " alt="" coords="5,5,56,31"/>
+<area shape="rect" id="node7" href="$display_8c.html#a4d2f0f63c4e7a114c8a212e2df266bf7" title=" " alt="" coords="251,80,333,105"/>
+</map>

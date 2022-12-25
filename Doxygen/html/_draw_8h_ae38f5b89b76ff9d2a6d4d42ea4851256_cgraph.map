@@ -1,0 +1,8 @@
+<map id="draw_button" name="draw_button">
+<area shape="rect" id="node1" title=" " alt="" coords="5,31,97,56"/>
+<area shape="rect" id="node2" href="$_l_c_d___i_l_i9325_8c.html#aa2077afa2087c1ac74a993d6b490bcc8" title="заполнить пиксель на экране определенным цветом" alt="" coords="281,5,380,31"/>
+<area shape="rect" id="node5" href="$_l_c_d___i_l_i9325_8c.html#a694765cad30abb8ddad88b9a42af76ea" title="вывод символа на экран по координатам" alt="" coords="145,56,229,81"/>
+<area shape="rect" id="node3" href="$_l_c_d___i_l_i9325_8c.html#a610d4079c6fe68ece3048d27894c6725" title=" " alt="" coords="432,5,559,31"/>
+<area shape="rect" id="node4" href="$_draw_8c.html#a36aebcb5cbb58f87e01c1354b66ef1c4" title="NO COMMENT." alt="" coords="470,55,521,80"/>
+<area shape="rect" id="node6" href="$_ascii_lib_8c.html#a51115d8123442e34b44cf1857ad7e2e0" title="копирует по коду ASCII матрицу символа в буффер" alt="" coords="277,107,384,132"/>
+</map>

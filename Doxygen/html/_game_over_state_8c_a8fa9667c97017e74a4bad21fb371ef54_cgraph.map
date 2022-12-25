@@ -1,0 +1,10 @@
+<map id="g_over_state_start" name="g_over_state_start">
+<area shape="rect" id="node1" title=" " alt="" coords="5,27,133,53"/>
+<area shape="rect" id="node2" href="$_draw_8c.html#a36aebcb5cbb58f87e01c1354b66ef1c4" title="NO COMMENT." alt="" coords="663,53,714,78"/>
+<area shape="rect" id="node3" href="$_draw_8c.html#a2342995e19d8dfdcf983ad0c81bc1d65" title="вывод строчки текста на экран" alt="" coords="181,27,291,53"/>
+<area shape="rect" id="node8" href="$_draw_8c.html#a6460368c40d346e7725bbb4666af8887" title="заполнение экрана цветом" alt="" coords="341,153,421,178"/>
+<area shape="rect" id="node4" href="$_l_c_d___i_l_i9325_8c.html#a694765cad30abb8ddad88b9a42af76ea" title="вывод символа на экран по координатам" alt="" coords="339,78,423,103"/>
+<area shape="rect" id="node5" href="$_ascii_lib_8c.html#a51115d8123442e34b44cf1857ad7e2e0" title="копирует по коду ASCII матрицу символа в буффер" alt="" coords="471,103,577,129"/>
+<area shape="rect" id="node6" href="$_l_c_d___i_l_i9325_8c.html#aa2077afa2087c1ac74a993d6b490bcc8" title="заполнить пиксель на экране определенным цветом" alt="" coords="475,153,573,178"/>
+<area shape="rect" id="node7" href="$_l_c_d___i_l_i9325_8c.html#a610d4079c6fe68ece3048d27894c6725" title=" " alt="" coords="625,153,752,178"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="lcd_fill_region" name="lcd_fill_region">
+<area shape="rect" id="node1" title="заполнить область экрана, определенным цветом" alt="" coords="136,5,236,31"/>
+<area shape="rect" id="node2" href="$display_8c.html#a4d2f0f63c4e7a114c8a212e2df266bf7" title=" " alt="" coords="5,5,88,31"/>
+</map>

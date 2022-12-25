@@ -1,0 +1,20 @@
+<map id="snake_movement_state_start" name="snake_movement_state_start">
+<area shape="rect" id="node1" title=" " alt="" coords="5,294,197,319"/>
+<area shape="rect" id="node2" href="$_apple_generator_8c.html#ac504965697d63f0161b37a4769a4e0ee" title="генерация яблока, чтобы оно не находилось внутри змеи и стен" alt="" coords="273,294,369,319"/>
+<area shape="rect" id="node4" href="$_draw_8c.html#a36aebcb5cbb58f87e01c1354b66ef1c4" title="NO COMMENT." alt="" coords="933,195,983,221"/>
+<area shape="rect" id="node9" href="$_draw_8c.html#a6460368c40d346e7725bbb4666af8887" title="заполнение экрана цветом" alt="" coords="610,194,690,219"/>
+<area shape="rect" id="node10" href="$_snake_part_8c.html#a89a93906ab2cd4c9e7661a6a376c7f24" title="èíèöèàëèçàöèÿ çìåéêè èç 3 ñîñòîâëÿþùèõ òåëà" alt="" coords="271,343,371,369"/>
+<area shape="rect" id="node11" href="$_snake_part_8c.html#a8154981833ae14ecc7feca2c873e2b00" title="îñâîáîæäåíèå ïàìÿòè" alt="" coords="261,393,382,418"/>
+<area shape="rect" id="node12" href="$_snake_movement_state_8c.html#a209460e1b38ba7ea5252824b37e7120c" title=" " alt="" coords="245,143,397,169"/>
+<area shape="rect" id="node16" href="$_wall_generator_8c.html#a1366df5cc0d72e3126f0852ec0d51630" title=" " alt="" coords="255,245,388,270"/>
+<area shape="rect" id="node17" href="$_wall_generator_8c.html#acf6f85f37e48fb54d10dd43bbd8e2a37" title=" " alt="" coords="272,442,371,467"/>
+<area shape="rect" id="node18" href="$_wall_generator_8c.html#ae6d2b51efa1802c21d49877fdc41b30f" title=" " alt="" coords="262,491,381,517"/>
+<area shape="rect" id="node3" href="$_draw_8c.html#a4e7b293cac5f7f98f6f513f0260e7475" title="отрисовка на экране изображения (яблоко, части тела змеи)" alt="" coords="457,245,548,270"/>
+<area shape="rect" id="node8" href="$_apple_generator_8c.html#a885ab63de1385bb499467644557ef742" title=" " alt="" coords="445,294,560,319"/>
+<area shape="rect" id="node5" href="$_draw_8c.html#aa48b26e669b142af2a6b163ee48f32a7" title=" " alt="" coords="754,295,833,321"/>
+<area shape="rect" id="node6" href="$_l_c_d___i_l_i9325_8c.html#aa2077afa2087c1ac74a993d6b490bcc8" title="заполнить пиксель на экране определенным цветом" alt="" coords="744,246,843,271"/>
+<area shape="rect" id="node7" href="$_l_c_d___i_l_i9325_8c.html#a610d4079c6fe68ece3048d27894c6725" title=" " alt="" coords="895,246,1021,271"/>
+<area shape="rect" id="node13" href="$_draw_8c.html#a2342995e19d8dfdcf983ad0c81bc1d65" title="вывод строчки текста на экран" alt="" coords="448,143,557,169"/>
+<area shape="rect" id="node14" href="$_l_c_d___i_l_i9325_8c.html#a694765cad30abb8ddad88b9a42af76ea" title="вывод символа на экран по координатам" alt="" coords="608,143,692,169"/>
+<area shape="rect" id="node15" href="$_ascii_lib_8c.html#a51115d8123442e34b44cf1857ad7e2e0" title="копирует по коду ASCII матрицу символа в буффер" alt="" coords="740,145,847,170"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="snake_update" name="snake_update">
+<area shape="rect" id="node1" title="îáíîâëåíèå êîîðäèíàò çìåéêè" alt="" coords="5,22,108,48"/>
+<area shape="rect" id="node2" href="$_draw_8c.html#a4e7b293cac5f7f98f6f513f0260e7475" title="отрисовка на экране изображения (яблоко, части тела змеи)" alt="" coords="351,22,441,48"/>
+<area shape="rect" id="node7" href="$_snake_part_8c.html#abde1a7bdc5c018736a3e7cc5cbe18fd0" title="ÒÓÒ ÿ ÇÀÅÁÀËÑß" alt="" coords="156,60,303,85"/>
+<area shape="rect" id="node3" href="$_draw_8c.html#a36aebcb5cbb58f87e01c1354b66ef1c4" title="NO COMMENT." alt="" coords="674,22,725,48"/>
+<area shape="rect" id="node4" href="$_draw_8c.html#aa48b26e669b142af2a6b163ee48f32a7" title=" " alt="" coords="499,22,578,48"/>
+<area shape="rect" id="node5" href="$_l_c_d___i_l_i9325_8c.html#aa2077afa2087c1ac74a993d6b490bcc8" title="заполнить пиксель на экране определенным цветом" alt="" coords="489,72,588,97"/>
+<area shape="rect" id="node6" href="$_l_c_d___i_l_i9325_8c.html#a610d4079c6fe68ece3048d27894c6725" title=" " alt="" coords="636,72,763,97"/>
+</map>

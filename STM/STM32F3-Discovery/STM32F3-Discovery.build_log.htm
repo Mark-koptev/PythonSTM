@@ -1,0 +1,183 @@
+<html>
+<body>
+<pre>
+<h1>�Vision Build Log</h1>
+<h2>Tool Versions:</h2>
+IDE-Version: �Vision V5.36.0.0
+Copyright (C) 2021 ARM Ltd and ARM Germany GmbH. All rights reserved.
+License Information: Roman Afanasev, IRoRoI, LIC=----
+ 
+Tool Versions:
+Toolchain:       MDK-Lite  Version: 5.36.0.0
+Toolchain Path:  C:\Keil_v5\ARM\ARMCC\Bin
+C Compiler:      Armcc.exe V5.06 update 7 (build 960)
+Assembler:       Armasm.exe V5.06 update 7 (build 960)
+Linker/Locator:  ArmLink.exe V5.06 update 7 (build 960)
+Library Manager: ArmAr.exe V5.06 update 7 (build 960)
+Hex Converter:   FromElf.exe V5.06 update 7 (build 960)
+CPU DLL:         SARMCM3.DLL V5.36.0.0
+Dialog DLL:      DCM.DLL V1.17.3.0
+Target DLL:      STLink\ST-LINKIII-KEIL_SWO.dll V3.0.9.0
+Dialog DLL:      TCM.DLL V1.53.0.0
+ 
+<h2>Project:</h2>
+C:\KP\Python-STM32\STM\Project.uvprojx
+Project File Date:  12/25/2022
+
+<h2>Output:</h2>
+*** Using Compiler 'V5.06 update 7 (build 960)', folder: 'C:\Keil_v5\ARM\ARMCC\Bin'
+Rebuild target 'STM32F3-Discovery'
+compiling stm32f3xx_ll_exti.c...
+compiling stm32f3xx_ll_gpio.c...
+compiling AsciiLib.c...
+compiling stm32f3xx_ll_rcc.c...
+compiling stm32f3xx_ll_utils.c...
+compiling stm32f3xx_ll_tim.c...
+compiling stm32f3xx_ll_usart.c...
+compiling main.c...
+User\SoundManager.h(9): warning:  #1295-D: Deprecated declaration speaker_init - give arg types
+  void speaker_init();
+User\MenuState.h(18): warning:  #1295-D: Deprecated declaration menu_start_play - give arg types
+  void menu_start_play();
+User\MenuState.h(21): warning:  #1295-D: Deprecated declaration menu_button_level - give arg types
+  void menu_button_level();
+User\WallGenerator.h(7): warning:  #1295-D: Deprecated declaration wall_generate_map - give arg types
+  void wall_generate_map();
+User\WallGenerator.h(9): warning:  #1295-D: Deprecated declaration wall_initialize - give arg types
+  void wall_initialize();
+User\main.c: 5 warnings, 0 errors
+compiling Images.c...
+User\Images.c(114): warning:  #1-D: last line of file ends without a newline
+  };
+User\Images.c: 1 warning, 0 errors
+compiling stm32f3xx_it.c...
+compiling lcd_ILI9325.c...
+User\lcd_ILI9325.c(363): warning:  #1-D: last line of file ends without a newline
+  }
+User\lcd_ILI9325.c: 1 warning, 0 errors
+compiling systickms.c...
+compiling keypad.c...
+compiling Draw.c...
+compiling display.c...
+User\display.c(86): warning:  #177-D: function "LCDlinestr"  was declared but never referenced
+  void LCDlinestr(char* str, int16_t y,uint16_t bkcolor, uint16_t charcolor)//240/8=30 символов в строке
+User\display.c(73): warning:  #177-D: function "bufLCDprint"  was declared but never referenced
+  void bufLCDprint(uint8_t sizestr, uint16_t* bufstr, char* str, uint16_t bkcolor, uint16_t charcolor)
+User\display.c(27): warning:  #550-D: variable "bufPrintstr"  was set but never used
+  static uint8_t bufPrintstr[RX_BUFSZ];
+User\display.c(28): warning:  #550-D: variable "lenbufPrstr"  was set but never used
+  static int16_t lenbufPrstr=0;
+User\display.c(29): warning:  #177-D: variable "slowstr"  was declared but never referenced
+  static uint8_t slowstr=0;
+User\display.c: 5 warnings, 0 errors
+compiling StateSystem.c...
+User\SoundManager.h(9): warning:  #1295-D: Deprecated declaration speaker_init - give arg types
+  void speaker_init();
+User\MenuState.h(18): warning:  #1295-D: Deprecated declaration menu_start_play - give arg types
+  void menu_start_play();
+User\MenuState.h(21): warning:  #1295-D: Deprecated declaration menu_button_level - give arg types
+  void menu_button_level();
+User\WallGenerator.h(7): warning:  #1295-D: Deprecated declaration wall_generate_map - give arg types
+  void wall_generate_map();
+User\WallGenerator.h(9): warning:  #1295-D: Deprecated declaration wall_initialize - give arg types
+  void wall_initialize();
+User\StateSystem.c: 5 warnings, 0 errors
+compiling SnakeMovementState.c...
+User\WallGenerator.h(7): warning:  #1295-D: Deprecated declaration wall_generate_map - give arg types
+  void wall_generate_map();
+User\WallGenerator.h(9): warning:  #1295-D: Deprecated declaration wall_initialize - give arg types
+  void wall_initialize();
+User\SoundManager.h(9): warning:  #1295-D: Deprecated declaration speaker_init - give arg types
+  void speaker_init();
+User\SnakeMovementState.c: 3 warnings, 0 errors
+compiling MenuState.c...
+User\SoundManager.h(9): warning:  #1295-D: Deprecated declaration speaker_init - give arg types
+  void speaker_init();
+User\MenuState.h(18): warning:  #1295-D: Deprecated declaration menu_start_play - give arg types
+  void menu_start_play();
+User\MenuState.h(21): warning:  #1295-D: Deprecated declaration menu_button_level - give arg types
+  void menu_button_level();
+User\MenuState.c(45): warning:  #177-D: variable "write"  was declared but never referenced
+  	uint8_t write = state_data->level;
+User\MenuState.c(68): warning:  #167-D: argument of type "void (*)()" is incompatible with parameter of type "void (*)(StateData *)"
+  	menu_buttons[0] = CreateButton("PLAY", 90, 230, LCD_COLOR_PURPLE, LCD_COLOR_YELLOW, menu_button_start_play);
+User\MenuState.c(71): warning:  #167-D: argument of type "void (*)()" is incompatible with parameter of type "void (*)(StateData *)"
+  	menu_buttons[3] = CreateButton(levels[0], 120 - strlen(levels[state_data->level]) * 5 - 10, 270, LCD_COLOR_GREEN, LCD_COLOR_YELLOW, menu_button_level);
+User\MenuState.c: 6 warnings, 0 errors
+compiling WallPatterns.c...
+compiling SnakePart.c...
+compiling Button.c...
+User\Button.c(13): warning:  #1-D: last line of file ends without a newline
+  }
+User\Button.c: 1 warning, 0 errors
+compiling States.c...
+User\States.c(11): warning:  #1-D: last line of file ends without a newline
+  }
+User\States.c: 1 warning, 0 errors
+compiling ExampleState.c...
+compiling retarget_io.c...
+assembling startup_stm32f303xc.s...
+compiling AppleGenerator.c...
+User\AppleGenerator.c(34): warning:  #1-D: last line of file ends without a newline
+  }
+User\AppleGenerator.c: 1 warning, 0 errors
+compiling GameOverState.c...
+compiling uart.c...
+compiling system_stm32f3xx.c...
+compiling WallGenerator.c...
+User\WallGenerator.h(7): warning:  #1295-D: Deprecated declaration wall_generate_map - give arg types
+  void wall_generate_map();
+User\WallGenerator.h(9): warning:  #1295-D: Deprecated declaration wall_initialize - give arg types
+  void wall_initialize();
+User\WallGenerator.c: 2 warnings, 0 errors
+compiling SoundManager.c...
+User\SoundManager.h(9): warning:  #1295-D: Deprecated declaration speaker_init - give arg types
+  void speaker_init();
+User\SoundManager.c(48): warning:  #1-D: last line of file ends without a newline
+  }
+User\SoundManager.c: 2 warnings, 0 errors
+linking...
+Program Size: Code=9744 RO-data=1992 RW-data=3280 ZI-data=18264  
+"STM32F3-Discovery\STM32F3-Discovery.axf" - 0 Error(s), 33 Warning(s).
+
+<h2>Software Packages used:</h2>
+
+Package Vendor: ARM
+                http://www.keil.com/pack/ARM.CMSIS.5.8.0.pack
+                ARM.CMSIS.5.8.0
+                CMSIS (Common Microcontroller Software Interface Standard)
+   * Component: CORE Version: 5.5.0
+
+Package Vendor: Keil
+                http://www.keil.com/pack/Keil.ARM_Compiler.1.6.3.pack
+                Keil.ARM_Compiler.1.6.3
+                Keil ARM Compiler extensions for ARM Compiler 5 and ARM Compiler 6
+   * Component: STDOUT Variant: ITM Version: 1.2.0
+
+Package Vendor: Keil
+                http://www.keil.com/pack/Keil.STM32F3xx_DFP.2.2.2.pack
+                Keil.STM32F3xx_DFP.2.2.2
+                STMicroelectronics STM32F3 Series Device Support and Examples
+   * Component: Startup Version: 1.11.3
+
+<h2>Collection of Component include folders:</h2>
+  .\RTE\_STM32F3-Discovery
+  C:\Users\godgo\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include
+  C:\Users\godgo\AppData\Local\Arm\Packs\Keil\STM32F3xx_DFP\2.2.2\Drivers\CMSIS\Device\ST\STM32F3xx\Include
+
+<h2>Collection of Component Files used:</h2>
+
+   * Component: ARM::CMSIS:CORE:5.5.0
+
+   * Component: Keil.ARM Compiler::Compiler:I/O:STDOUT:ITM:1.2.0
+      Source file:   Source\retarget_io.c
+
+   * Component: Keil.Standalone::Device:Startup:1.11.3
+      Source file:   MDK\Device\Source\ARM\STM32F3xx_OPT.s
+      Source file:   Drivers\CMSIS\Device\ST\STM32F3xx\Source\Templates\system_stm32f3xx.c
+      Include file:  Drivers\CMSIS\Device\ST\STM32F3xx\Include\stm32f3xx.h
+      Source file:   Drivers\CMSIS\Device\ST\STM32F3xx\Source\Templates\arm\startup_stm32f303xc.s
+Build Time Elapsed:  00:00:27
+</pre>
+</body>
+</html>

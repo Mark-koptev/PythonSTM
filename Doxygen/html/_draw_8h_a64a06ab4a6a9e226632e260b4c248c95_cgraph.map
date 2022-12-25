@@ -1,0 +1,6 @@
+<map id="fill_screen" name="fill_screen">
+<area shape="rect" id="node1" title="заполнение экрана цветом" alt="" coords="5,29,85,55"/>
+<area shape="rect" id="node2" href="$_draw_8c.html#a36aebcb5cbb58f87e01c1354b66ef1c4" title="NO COMMENT." alt="" coords="318,5,369,31"/>
+<area shape="rect" id="node3" href="$_l_c_d___i_l_i9325_8c.html#aa2077afa2087c1ac74a993d6b490bcc8" title="заполнить пиксель на экране определенным цветом" alt="" coords="133,55,232,80"/>
+<area shape="rect" id="node4" href="$_l_c_d___i_l_i9325_8c.html#a610d4079c6fe68ece3048d27894c6725" title=" " alt="" coords="280,55,407,80"/>
+</map>

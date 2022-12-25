@@ -1,0 +1,39 @@
+digraph "menu_button_left_level"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=40,labelfontname=Helvetica,labelfontsize=40,,fontsize=40];
+  node [fontname=Helvetica,fontsize=40,shape=box,fontsize=40];
+  rankdir="LR";
+  Node1 [label="menu_button_left_level",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip="изменение текущего уровня"];
+  Node1 -> Node2 [color="steelblue1",style="solid"];
+  Node2 [label="menu_level_step",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$_menu_state_8c.html#a96d08c037055a0dd1affcec27791a4fd",tooltip="обработка выбранной кнопки"];
+  Node2 -> Node3 [color="steelblue1",style="solid"];
+  Node3 [label="menu_draw_buttons",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$_menu_state_8c.html#a7ac4d44b3f7f8a686a22fcdfb41a8e06",tooltip="отрисовка кнопок"];
+  Node3 -> Node4 [color="steelblue1",style="solid"];
+  Node4 [label="draw_button",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$_draw_8c.html#ae38f5b89b76ff9d2a6d4d42ea4851256",tooltip="вывод кнопки"];
+  Node4 -> Node5 [color="steelblue1",style="solid"];
+  Node5 [label="lcd_set_pixel",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$_l_c_d___i_l_i9325_8c.html#aa2077afa2087c1ac74a993d6b490bcc8",tooltip="заполнить пиксель на экране определенным цветом"];
+  Node5 -> Node6 [color="steelblue1",style="solid"];
+  Node6 [label="bus_lcd_write_reg",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$_l_c_d___i_l_i9325_8c.html#a610d4079c6fe68ece3048d27894c6725",tooltip=" "];
+  Node5 -> Node7 [color="steelblue1",style="solid"];
+  Node7 [label="color",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$_draw_8c.html#a36aebcb5cbb58f87e01c1354b66ef1c4",tooltip=" "];
+  Node4 -> Node8 [color="steelblue1",style="solid"];
+  Node8 [label="prein_ascii",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$_l_c_d___i_l_i9325_8c.html#a694765cad30abb8ddad88b9a42af76ea",tooltip="вывод символа на экран по координатам"];
+  Node8 -> Node7 [color="steelblue1",style="solid"];
+  Node8 -> Node9 [color="steelblue1",style="solid"];
+  Node9 [label="GetASCIICode",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$_ascii_lib_8c.html#a51115d8123442e34b44cf1857ad7e2e0",tooltip="копирует по коду ASCII матрицу символа в буффер"];
+  Node8 -> Node5 [color="steelblue1",style="solid"];
+  Node3 -> Node10 [color="steelblue1",style="solid"];
+  Node10 [label="menu_init_buttons",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$_menu_state_8c.html#a722ff5fd5b703a1c52ee9113e10d24db",tooltip="создание кнопок"];
+  Node10 -> Node11 [color="steelblue1",style="solid"];
+  Node11 [label="CreateButton",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$_button_8c.html#a267fd2d1ddc5545d7061381f7843fc4c",tooltip=" "];
+  Node10 -> Node1 [color="steelblue1",style="solid"];
+  Node10 -> Node12 [color="steelblue1",style="solid"];
+  Node12 [label="menu_button_level",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$_menu_state_8c.html#a615cfbefe2780e165d2c14f4a7ab38da",tooltip="пустной метод"];
+  Node10 -> Node13 [color="steelblue1",style="solid"];
+  Node13 [label="menu_button_right_level",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$_menu_state_8c.html#aa9ee973d336b947fcd486a6bb617c840",tooltip="изменение текущего уровня"];
+  Node13 -> Node2 [color="steelblue1",style="solid"];
+  Node10 -> Node14 [color="steelblue1",style="solid"];
+  Node14 [label="menu_button_start_play",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$_menu_state_8c.html#a5545fe777e649bcc4d27468a21bff498",tooltip=" "];
+}

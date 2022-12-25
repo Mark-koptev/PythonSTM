@@ -1,0 +1,11 @@
+<map id="snake_score_changed" name="snake_score_changed">
+<area shape="rect" id="node1" title=" " alt="" coords="5,51,157,77"/>
+<area shape="rect" id="node2" href="$_draw_8c.html#a4e7b293cac5f7f98f6f513f0260e7475" title="отрисовка на экране изображения (яблоко, части тела змеи)" alt="" coords="363,26,453,51"/>
+<area shape="rect" id="node7" href="$_draw_8c.html#a2342995e19d8dfdcf983ad0c81bc1d65" title="вывод строчки текста на экран" alt="" coords="205,77,315,102"/>
+<area shape="rect" id="node3" href="$_draw_8c.html#a36aebcb5cbb58f87e01c1354b66ef1c4" title="NO COMMENT." alt="" coords="694,77,745,102"/>
+<area shape="rect" id="node4" href="$_draw_8c.html#aa48b26e669b142af2a6b163ee48f32a7" title=" " alt="" coords="515,26,594,51"/>
+<area shape="rect" id="node5" href="$_l_c_d___i_l_i9325_8c.html#aa2077afa2087c1ac74a993d6b490bcc8" title="заполнить пиксель на экране определенным цветом" alt="" coords="505,127,604,153"/>
+<area shape="rect" id="node6" href="$_l_c_d___i_l_i9325_8c.html#a610d4079c6fe68ece3048d27894c6725" title=" " alt="" coords="656,127,783,153"/>
+<area shape="rect" id="node8" href="$_l_c_d___i_l_i9325_8c.html#a694765cad30abb8ddad88b9a42af76ea" title="вывод символа на экран по координатам" alt="" coords="366,153,450,178"/>
+<area shape="rect" id="node9" href="$_ascii_lib_8c.html#a51115d8123442e34b44cf1857ad7e2e0" title="копирует по коду ASCII матрицу символа в буффер" alt="" coords="501,229,608,254"/>
+</map>

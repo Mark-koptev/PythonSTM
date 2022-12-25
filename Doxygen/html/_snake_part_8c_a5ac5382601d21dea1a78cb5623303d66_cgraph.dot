@@ -1,0 +1,25 @@
+digraph "snake_update"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=40,labelfontname=Helvetica,labelfontsize=40,,fontsize=40];
+  node [fontname=Helvetica,fontsize=40,shape=box,fontsize=40];
+  rankdir="LR";
+  Node1 [label="snake_update",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip="обновление координат змейки"];
+  Node1 -> Node2 [color="steelblue1",style="solid"];
+  Node2 [label="draw_image",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$_draw_8c.html#a4e7b293cac5f7f98f6f513f0260e7475",tooltip="отрисовка на экране изображения (яблоко, части тела змеи)"];
+  Node2 -> Node3 [color="steelblue1",style="solid"];
+  Node3 [label="color",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$_draw_8c.html#a36aebcb5cbb58f87e01c1354b66ef1c4",tooltip=" "];
+  Node2 -> Node4 [color="steelblue1",style="solid"];
+  Node4 [label="img_color",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$_draw_8c.html#aa48b26e669b142af2a6b163ee48f32a7",tooltip=" "];
+  Node4 -> Node3 [color="steelblue1",style="solid"];
+  Node2 -> Node5 [color="steelblue1",style="solid"];
+  Node5 [label="lcd_set_pixel",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$_l_c_d___i_l_i9325_8c.html#aa2077afa2087c1ac74a993d6b490bcc8",tooltip="заполнить пиксель на экране определенным цветом"];
+  Node5 -> Node6 [color="steelblue1",style="solid"];
+  Node6 [label="bus_lcd_write_reg",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$_l_c_d___i_l_i9325_8c.html#a610d4079c6fe68ece3048d27894c6725",tooltip=" "];
+  Node5 -> Node3 [color="steelblue1",style="solid"];
+  Node1 -> Node7 [color="steelblue1",style="solid"];
+  Node7 [label="snake_clear_previous",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$_snake_part_8c.html#abde1a7bdc5c018736a3e7cc5cbe18fd0",tooltip="очистка хвоста"];
+  Node7 -> Node2 [color="steelblue1",style="solid"];
+  Node7 -> Node7 [color="steelblue1",style="solid"];
+}

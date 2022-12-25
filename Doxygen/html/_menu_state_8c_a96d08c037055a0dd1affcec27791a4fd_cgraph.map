@@ -1,0 +1,16 @@
+<map id="menu_level_step" name="menu_level_step">
+<area shape="rect" id="node1" title=" " alt="" coords="5,277,124,303"/>
+<area shape="rect" id="node2" href="$_menu_state_8c.html#a7ac4d44b3f7f8a686a22fcdfb41a8e06" title=" " alt="" coords="172,227,311,252"/>
+<area shape="rect" id="node3" href="$_draw_8c.html#ae38f5b89b76ff9d2a6d4d42ea4851256" title=" " alt="" coords="377,80,469,105"/>
+<area shape="rect" id="node9" href="$_menu_state_8c.html#a722ff5fd5b703a1c52ee9113e10d24db" title=" " alt="" coords="359,227,487,252"/>
+<area shape="rect" id="node4" href="$_l_c_d___i_l_i9325_8c.html#aa2077afa2087c1ac74a993d6b490bcc8" title="заполнить пиксель на экране определенным цветом" alt="" coords="748,80,847,105"/>
+<area shape="rect" id="node7" href="$_l_c_d___i_l_i9325_8c.html#a694765cad30abb8ddad88b9a42af76ea" title="вывод символа на экран по координатам" alt="" coords="573,29,657,55"/>
+<area shape="rect" id="node5" href="$_l_c_d___i_l_i9325_8c.html#a610d4079c6fe68ece3048d27894c6725" title=" " alt="" coords="899,80,1025,105"/>
+<area shape="rect" id="node6" href="$_draw_8c.html#a36aebcb5cbb58f87e01c1354b66ef1c4" title="NO COMMENT." alt="" coords="937,5,987,31"/>
+<area shape="rect" id="node8" href="$_ascii_lib_8c.html#a51115d8123442e34b44cf1857ad7e2e0" title="копирует по коду ASCII матрицу символа в буффер" alt="" coords="744,31,851,56"/>
+<area shape="rect" id="node10" href="$_button_8c.html#a267fd2d1ddc5545d7061381f7843fc4c" title=" " alt="" coords="566,131,665,156"/>
+<area shape="rect" id="node11" href="$_menu_state_8c.html#a5d2cc1aab443708c1a01b555b6173303" title=" " alt="" coords="539,279,692,304"/>
+<area shape="rect" id="node12" href="$_menu_state_8c.html#a615cfbefe2780e165d2c14f4a7ab38da" title=" " alt="" coords="551,180,680,205"/>
+<area shape="rect" id="node13" href="$_menu_state_8c.html#aa9ee973d336b947fcd486a6bb617c840" title=" " alt="" coords="535,328,696,353"/>
+<area shape="rect" id="node14" href="$_menu_state_8c.html#a5545fe777e649bcc4d27468a21bff498" title=" " alt="" coords="535,229,696,255"/>
+</map>

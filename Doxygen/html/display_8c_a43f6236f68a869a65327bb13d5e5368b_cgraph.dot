@@ -1,0 +1,31 @@
+digraph "Init_display"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=40,labelfontname=Helvetica,labelfontsize=40,,fontsize=40];
+  node [fontname=Helvetica,fontsize=40,shape=box,fontsize=40];
+  rankdir="LR";
+  Node1 [label="Init_display",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip=" "];
+  Node1 -> Node2 [color="steelblue1",style="solid"];
+  Node2 [label="init_lcd_ili9325",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$_l_c_d___i_l_i9325_8c.html#a5d157763515a35b729669b660b42bae2",tooltip="no comment"];
+  Node2 -> Node3 [color="steelblue1",style="solid"];
+  Node3 [label="board_lcd_reset",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$_l_c_d___i_l_i9325_8c.html#aad597e1ec69aa38f7f9aea0a005ab29a",tooltip=" "];
+  Node2 -> Node4 [color="steelblue1",style="solid"];
+  Node4 [label="bus_lcd_read_reg",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$_l_c_d___i_l_i9325_8c.html#a152e9e48bd842de3b9b9a6f72e2b7ec6",tooltip=" "];
+  Node2 -> Node5 [color="steelblue1",style="solid"];
+  Node5 [label="bus_lcd_write_reg",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$_l_c_d___i_l_i9325_8c.html#a610d4079c6fe68ece3048d27894c6725",tooltip=" "];
+  Node2 -> Node6 [color="steelblue1",style="solid"];
+  Node6 [label="gpio_lcd_init",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$_l_c_d___i_l_i9325_8c.html#ad7d4cc02f22b1ef0fa4398facee9d774",tooltip="no comment"];
+  Node2 -> Node7 [color="steelblue1",style="solid"];
+  Node7 [label="lcd_bus_test",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$_l_c_d___i_l_i9325_8c.html#a2cfd3bf44d631f4a9819b6c0c5cf9dde",tooltip=" "];
+  Node7 -> Node4 [color="steelblue1",style="solid"];
+  Node7 -> Node5 [color="steelblue1",style="solid"];
+  Node2 -> Node8 [color="steelblue1",style="solid"];
+  Node8 [label="lcd_fill_color",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$_l_c_d___i_l_i9325_8c.html#add460c119896836f5363c25596f7ad45",tooltip="заполнить область экрана, определенным цветом"];
+  Node8 -> Node9 [color="steelblue1",style="solid"];
+  Node9 [label="board_lcd_write_words",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$_l_c_d___i_l_i9325_8c.html#a0ef55c0ff6f2f4332c7a88e3e53e2df1",tooltip=" "];
+  Node8 -> Node5 [color="steelblue1",style="solid"];
+  Node8 -> Node10 [color="steelblue1",style="solid"];
+  Node10 [label="color",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$_draw_8c.html#a36aebcb5cbb58f87e01c1354b66ef1c4",tooltip=" "];
+  Node1 -> Node8 [color="steelblue1",style="solid"];
+}

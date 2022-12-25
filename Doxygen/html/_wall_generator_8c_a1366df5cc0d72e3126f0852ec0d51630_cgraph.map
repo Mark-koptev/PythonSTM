@@ -1,0 +1,8 @@
+<map id="wall_generate_map" name="wall_generate_map">
+<area shape="rect" id="node1" title=" " alt="" coords="5,22,139,48"/>
+<area shape="rect" id="node2" href="$_draw_8c.html#a4e7b293cac5f7f98f6f513f0260e7475" title="отрисовка на экране изображения (яблоко, части тела змеи)" alt="" coords="187,22,277,48"/>
+<area shape="rect" id="node3" href="$_draw_8c.html#a36aebcb5cbb58f87e01c1354b66ef1c4" title="NO COMMENT." alt="" coords="510,22,561,48"/>
+<area shape="rect" id="node4" href="$_draw_8c.html#aa48b26e669b142af2a6b163ee48f32a7" title=" " alt="" coords="335,22,414,48"/>
+<area shape="rect" id="node5" href="$_l_c_d___i_l_i9325_8c.html#aa2077afa2087c1ac74a993d6b490bcc8" title="заполнить пиксель на экране определенным цветом" alt="" coords="325,72,424,97"/>
+<area shape="rect" id="node6" href="$_l_c_d___i_l_i9325_8c.html#a610d4079c6fe68ece3048d27894c6725" title=" " alt="" coords="472,72,599,97"/>
+</map>

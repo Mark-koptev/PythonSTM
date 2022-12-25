@@ -1,0 +1,10 @@
+<map id="draw_message" name="draw_message">
+<area shape="rect" id="node1" title="вывод строчки текста на экран" alt="" coords="717,56,827,81"/>
+<area shape="rect" id="node2" href="$_game_over_state_8c.html#a8fa9667c97017e74a4bad21fb371ef54" title=" " alt="" coords="529,5,657,31"/>
+<area shape="rect" id="node5" href="$_menu_state_8c.html#a56ec400186eaf40d8f5698e7dd59335d" title=" " alt="" coords="312,56,435,81"/>
+<area shape="rect" id="node6" href="$_snake_movement_state_8c.html#a209460e1b38ba7ea5252824b37e7120c" title=" " alt="" coords="517,107,669,132"/>
+<area shape="rect" id="node3" href="$_state_system_8c.html#a76ca3238af8241d13acfa124153825fb" title="èíèöèàëèçàöèÿ ñîñòîÿíèÿ ìåíþ" alt="" coords="104,81,229,107"/>
+<area shape="rect" id="node4" href="$main_8c.html#a840291bc02cba5474a4cb46a9b9566fe" title=" " alt="" coords="5,81,56,107"/>
+<area shape="rect" id="node7" href="$_snake_movement_state_8c.html#a98c44dab5e8409d96299f37248ee7f50" title=" " alt="" coords="294,105,453,131"/>
+<area shape="rect" id="node8" href="$_snake_movement_state_8c.html#a050222aed710787edc34c489102b2a10" title=" " alt="" coords="277,155,469,180"/>
+</map>

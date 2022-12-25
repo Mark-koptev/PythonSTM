@@ -1,0 +1,16 @@
+<map id="draw_image" name="draw_image">
+<area shape="rect" id="node1" title="отрисовка на экране изображения (яблоко, части тела змеи)" alt="" coords="924,191,1015,216"/>
+<area shape="rect" id="node2" href="$_apple_generator_8c.html#ac504965697d63f0161b37a4769a4e0ee" title="генерация яблока, чтобы оно не находилось внутри змеи и стен" alt="" coords="752,216,848,241"/>
+<area shape="rect" id="node7" href="$_menu_state_8c.html#a56ec400186eaf40d8f5698e7dd59335d" title=" " alt="" coords="295,327,418,352"/>
+<area shape="rect" id="node8" href="$_snake_part_8c.html#abde1a7bdc5c018736a3e7cc5cbe18fd0" title="ÒÓÒ ÿ ÇÀÅÁÀËÑß" alt="" coords="727,64,873,89"/>
+<area shape="rect" id="node9" href="$_snake_part_8c.html#a5ac5382601d21dea1a78cb5623303d66" title="îáíîâëåíèå êîîðäèíàò çìåéêè" alt="" coords="529,64,631,89"/>
+<area shape="rect" id="node11" href="$_snake_part_8c.html#ab75522ac90b115496f721c3e2648c623" title="îòðèñîâêà òåëà çìåéêè íà ýêðàí" alt="" coords="535,113,625,139"/>
+<area shape="rect" id="node12" href="$_snake_part_8c.html#a890eeea826c5247ec29beccf56660b99" title=" " alt="" coords="535,163,625,188"/>
+<area shape="rect" id="node13" href="$_snake_movement_state_8c.html#a209460e1b38ba7ea5252824b37e7120c" title=" " alt="" coords="724,265,876,291"/>
+<area shape="rect" id="node14" href="$_wall_generator_8c.html#a1366df5cc0d72e3126f0852ec0d51630" title=" " alt="" coords="733,315,867,340"/>
+<area shape="rect" id="node3" href="$_snake_movement_state_8c.html#a98c44dab5e8409d96299f37248ee7f50" title=" " alt="" coords="277,188,436,213"/>
+<area shape="rect" id="node6" href="$_snake_movement_state_8c.html#a050222aed710787edc34c489102b2a10" title=" " alt="" coords="484,315,676,340"/>
+<area shape="rect" id="node4" href="$_state_system_8c.html#a76ca3238af8241d13acfa124153825fb" title="èíèöèàëèçàöèÿ ñîñòîÿíèÿ ìåíþ" alt="" coords="104,225,229,251"/>
+<area shape="rect" id="node5" href="$main_8c.html#a840291bc02cba5474a4cb46a9b9566fe" title=" " alt="" coords="5,225,56,251"/>
+<area shape="rect" id="node10" href="$_menu_state_8c.html#a52826b1310b40a2a04605e9120d74a78" title=" " alt="" coords="311,89,402,115"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="putbuf_char" name="putbuf_char">
+<area shape="rect" id="node1" title=" " alt="" coords="5,5,95,31"/>
+<area shape="rect" id="node2" href="$_ascii_lib_8c.html#a51115d8123442e34b44cf1857ad7e2e0" title="копирует по коду ASCII матрицу символа в буффер" alt="" coords="143,5,249,31"/>
+</map>

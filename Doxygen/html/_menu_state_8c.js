@@ -1,0 +1,27 @@
+var _menu_state_8c =
+[
+    [ "menu_button_left_level", "_menu_state_8c.html#a5d2cc1aab443708c1a01b555b6173303", null ],
+    [ "menu_button_level", "_menu_state_8c.html#a615cfbefe2780e165d2c14f4a7ab38da", null ],
+    [ "menu_button_right_level", "_menu_state_8c.html#aa9ee973d336b947fcd486a6bb617c840", null ],
+    [ "menu_button_start_play", "_menu_state_8c.html#a5545fe777e649bcc4d27468a21bff498", null ],
+    [ "menu_draw_buttons", "_menu_state_8c.html#a7ac4d44b3f7f8a686a22fcdfb41a8e06", null ],
+    [ "menu_init_buttons", "_menu_state_8c.html#a722ff5fd5b703a1c52ee9113e10d24db", null ],
+    [ "menu_level_step", "_menu_state_8c.html#a96d08c037055a0dd1affcec27791a4fd", null ],
+    [ "menu_select_button_by_step", "_menu_state_8c.html#a1a5ed62656e3fae091e3961301550eda", null ],
+    [ "menu_state", "_menu_state_8c.html#a52826b1310b40a2a04605e9120d74a78", null ],
+    [ "menu_state_changer", "_menu_state_8c.html#a3d4e95783dbb49a221262ad4e695b475", null ],
+    [ "menu_state_input", "_menu_state_8c.html#ac212a240f9697e2a7c70f920a9ab0d2d", null ],
+    [ "menu_state_start", "_menu_state_8c.html#a56ec400186eaf40d8f5698e7dd59335d", null ],
+    [ "count_levels", "_menu_state_8c.html#a53921e8cab7b4c29c6350423717aa233", null ],
+    [ "count_step", "_menu_state_8c.html#a39547edda29d78c630c00c1e43902f79", null ],
+    [ "current_dir", "_menu_state_8c.html#a57f912684d2326df873c432221525ec6", null ],
+    [ "dX", "_menu_state_8c.html#a06d961508e24edd72d0946e933f6eb59", null ],
+    [ "dY", "_menu_state_8c.html#a3b21402ec365e4b057f8bf6cae4edd5f", null ],
+    [ "levels", "_menu_state_8c.html#a004b893a4391189108c29182f992a68a", null ],
+    [ "menu_buttons", "_menu_state_8c.html#aea8a0a53f5a0a975192ff10e617002d6", null ],
+    [ "menu_buttons_count", "_menu_state_8c.html#ab284783c2894434bf75beb378f5f176a", null ],
+    [ "menu_last_color_button", "_menu_state_8c.html#a826115e2a27e478f52d570ddc97dd19a", null ],
+    [ "menu_selected_button", "_menu_state_8c.html#a65f2a1dd01bc8adb7e2b94d26ba12220", null ],
+    [ "menu_snake", "_menu_state_8c.html#a72f13be4c918c68db1e664d1ccd0a31c", null ],
+    [ "menu_state_change", "_menu_state_8c.html#a971ae4b141bf3476d87787c12fa18bad", null ]
+];

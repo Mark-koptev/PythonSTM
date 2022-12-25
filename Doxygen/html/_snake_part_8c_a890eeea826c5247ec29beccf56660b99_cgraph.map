@@ -1,0 +1,8 @@
+<map id="snake_grow" name="snake_grow">
+<area shape="rect" id="node1" title=" " alt="" coords="5,22,96,48"/>
+<area shape="rect" id="node2" href="$_draw_8c.html#a4e7b293cac5f7f98f6f513f0260e7475" title="отрисовка на экране изображения (яблоко, части тела змеи)" alt="" coords="144,22,235,48"/>
+<area shape="rect" id="node3" href="$_draw_8c.html#a36aebcb5cbb58f87e01c1354b66ef1c4" title="NO COMMENT." alt="" coords="467,22,518,48"/>
+<area shape="rect" id="node4" href="$_draw_8c.html#aa48b26e669b142af2a6b163ee48f32a7" title=" " alt="" coords="293,22,371,48"/>
+<area shape="rect" id="node5" href="$_l_c_d___i_l_i9325_8c.html#aa2077afa2087c1ac74a993d6b490bcc8" title="заполнить пиксель на экране определенным цветом" alt="" coords="283,72,381,97"/>
+<area shape="rect" id="node6" href="$_l_c_d___i_l_i9325_8c.html#a610d4079c6fe68ece3048d27894c6725" title=" " alt="" coords="429,72,556,97"/>
+</map>

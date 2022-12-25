@@ -1,0 +1,7 @@
+<map id="apple_create" name="apple_create">
+<area shape="rect" id="node1" title="генерация яблока, чтобы оно не находилось внутри змеи и стен" alt="" coords="517,31,613,56"/>
+<area shape="rect" id="node2" href="$_snake_movement_state_8c.html#a98c44dab5e8409d96299f37248ee7f50" title=" " alt="" coords="294,5,453,31"/>
+<area shape="rect" id="node5" href="$_snake_movement_state_8c.html#a050222aed710787edc34c489102b2a10" title=" " alt="" coords="277,55,469,80"/>
+<area shape="rect" id="node3" href="$_state_system_8c.html#a76ca3238af8241d13acfa124153825fb" title="èíèöèàëèçàöèÿ ñîñòîÿíèÿ ìåíþ" alt="" coords="104,31,229,56"/>
+<area shape="rect" id="node4" href="$main_8c.html#a840291bc02cba5474a4cb46a9b9566fe" title=" " alt="" coords="5,31,56,56"/>
+</map>

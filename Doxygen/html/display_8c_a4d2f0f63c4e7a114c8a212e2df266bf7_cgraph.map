@@ -1,0 +1,8 @@
+<map id="LCDlinestr" name="LCDlinestr">
+<area shape="rect" id="node1" title=" " alt="" coords="5,80,88,105"/>
+<area shape="rect" id="node2" href="$_l_c_d___i_l_i9325_8c.html#acebd4dda03bfc9b3ae8804065e7a010f" title="заполнить область экрана, определенным цветом" alt="" coords="136,55,236,80"/>
+<area shape="rect" id="node5" href="$display_8c.html#a85625e71082c1729d169d7670ab546d1" title=" " alt="" coords="141,104,231,129"/>
+<area shape="rect" id="node3" href="$_l_c_d___i_l_i9325_8c.html#a0ef55c0ff6f2f4332c7a88e3e53e2df1" title=" " alt="" coords="284,5,437,31"/>
+<area shape="rect" id="node4" href="$_l_c_d___i_l_i9325_8c.html#a610d4079c6fe68ece3048d27894c6725" title=" " alt="" coords="297,55,424,80"/>
+<area shape="rect" id="node6" href="$_ascii_lib_8c.html#a51115d8123442e34b44cf1857ad7e2e0" title="копирует по коду ASCII матрицу символа в буффер" alt="" coords="307,104,414,129"/>
+</map>
